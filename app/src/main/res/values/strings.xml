@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="meme">LOADING...</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>

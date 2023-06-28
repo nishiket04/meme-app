@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
             public void onErrorResponse(VolleyError error) {
                 // make progressbar visibility gone and set text
                 p.setVisibility(View.GONE);
-                txt.setText("CLICK ON NEXT BUTTON TO REFRASH");
+                txt.setText("CLICK ON NEXT BUTTON TO REFRESH");
                 // make toast for user to notify
                 Toast.makeText(MainActivity.this, "Faild! Check Your Internet Connection", Toast.LENGTH_SHORT).show();
             }
